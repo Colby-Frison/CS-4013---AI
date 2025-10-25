@@ -13,7 +13,7 @@ I'll commit my past assignments but current assignment are gonna be in gitignore
 
 - **hw1**: First homework assignment
 - **hw2**: Genetic algorithms and local search implementations
-
+- **hw4**: Fundamental machine learning implementations
 
 ### Class Resources
 - **Slides**: Course presentation materials
